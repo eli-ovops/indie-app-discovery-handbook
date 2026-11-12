@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "figma-feature-spec": {
+      "source": "gwair1989/figma-full-cycle",
+      "sourceType": "github",
+      "skillPath": "skills/figma-feature-spec/SKILL.md",
+      "computedHash": "20e4b71b1276d93feb0e60b94d137867a4a1842445f23f62f86612b01f23f445"
+    },
+    "figma-full-cycle": {
+      "source": "gwair1989/figma-full-cycle",
+      "sourceType": "github",
+      "skillPath": "skills/figma-full-cycle/SKILL.md",
+      "computedHash": "28bbda769eaf7ca9e7507cb4d9caa2eebda542f966294394001ff1935be8def4"
+    },
+    "figma-to-swiftui": {
+      "source": "daetojemax/figma-to-swiftui-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "efc97522cd983ac210a7567de7b9eca64d49b8d2b920f47dc67345dd6eb0bcf0"
+    },
+    "import-figma-assets": {
+      "source": "gwair1989/figma-full-cycle",
+      "sourceType": "github",
+      "skillPath": "skills/import-figma-assets/SKILL.md",
+      "computedHash": "3ca6ce2dcbd89eaa409ff3d1854537153c04d8944a8c17b746ba9dc3c30fd0c8"
+    },
+    "ios-design": {
+      "source": "pproenca/dot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/.experimental/ios-design/SKILL.md",
+      "computedHash": "cabf22363f6b98df5e466e71ef772d65d404803077a2773704e03b4404a73b2a"
+    },
+    "mobile-ios-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/ui-design/skills/mobile-ios-design/SKILL.md",
+      "computedHash": "3902f919488d8ddc983e157bbcd5f16b739b84eeaab57002bf52b7f9601ed6ad"
+    },
+    "swiftui-expert-skill": {
+      "source": "avdlee/swiftui-agent-skill",
+      "sourceType": "github",
+      "skillPath": "skills/swiftui-expert-skill/SKILL.md",
+      "computedHash": "352119e45436aa70d5a0d29e275dc55769ab509c2098505b391c2e1347c1118a"
+    },
+    "swiftui-ui-patterns": {
+      "source": "dimillian/skills",
+      "sourceType": "github",
+      "skillPath": "swiftui-ui-patterns/SKILL.md",
+      "computedHash": "f58d51fe4569f9eff10c45a4ed6859c9f5e3eefca7827e819de840141da67995"
+    }
+  }
+}
